@@ -1,2 +1,2 @@
 # end-to-end-ml-project
-My first end to end machine learning project🥰 , I'm still learning tbh...
+My first end to end machine learning project🥰
